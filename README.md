@@ -52,11 +52,17 @@ Make sure you have the following installed:
 
 ## 📁 File Structure
 QR_Code_Generator/
+
 │
+
 ├── index.js         # Main script
+
 ├── URL.txt          # Stores the entered URL (generated on run)
+
 ├── qr_code.png      # Generated QR code image (generated on run)
+
 ├── package.json     # Project metadata and dependencies
+
 └── README.md        # Project documentation
 
 ## 🧪 Example
