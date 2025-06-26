@@ -67,7 +67,9 @@ QR_Code_Generator/
 
 ## 🧪 Example
 ? Type the URL you want to convert to a QR code: https://www.google.com
+
 Generating QR code for: https://www.google.com
+
 URL saved to URL.txt
 
 ## 🙋‍♂️ Author
